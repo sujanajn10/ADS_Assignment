@@ -1,0 +1,2 @@
+Data structures- vector(1d, homogeneous),list(1d,hetereogeneous),matrix(2d,homogeneous),dataframe(2d,heterogeneous),factor,array;
+Data types in R- integer,boolean,complex,chracter;
